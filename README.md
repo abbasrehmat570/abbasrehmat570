@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing right now.
 - 🌱 I’m currently learning FLutter.
 - 💞️ I’m looking to collaborate on small flutter Projects
-- 📫 How to reach me  "Abbasrehmat570@gmail.com"
+- 📫 How to reach me  abbasrehmat570@gmail.com
 
 <!---
 abbasrehmat570/abbasrehmat570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
